@@ -8,5 +8,5 @@
 - 📫 How to reach me: [Facebook - @trantrung1512](https://www.facebook.com/trantrung1512), [Gmail - @trung.th](mailto:trung.th@neo-lab.vn)
 - ⚡ Fun fact: Go one more...!!!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trung-th-neo-lab&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trung-th-neo-lab&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/trung-th-neo-lab)
