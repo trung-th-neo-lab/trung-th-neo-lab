@@ -10,10 +10,7 @@
 ## Connect with me
 <a href="https://twitter.com/trung151224">
     <img alt="twitter-trung151224 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
-  </a>
-<a href="https://github.com/trung-th-neo-lab">
-  <img alt="github-trung.th | Github" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</a>
+ </a>
 <a href="https://gitlab.com/trung.th">
   <img alt="gitlab-trung.th | Gitlab" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
 </a>
