@@ -32,4 +32,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trung-th-neo-lab&show_icons=true&theme=synthwave)
 
-
+<img alt="Ruby" align="left" style="margin-right:15px" src="https://design-image.s3-us-west-2.amazonaws.com/upload/Th%C6%A1.png" />
