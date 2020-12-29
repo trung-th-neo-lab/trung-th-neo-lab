@@ -24,7 +24,7 @@
 <img alt="HTML5" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="Golang" align="left" width="26px" style="margin-right:15px" src="https://design-image.s3-us-west-2.amazonaws.com/upload/golang.png" />
-<img alt="Ruby on Rails" align="left" width="40px" height="40px" style="margin-right:15px; margin-top: -20px" src="https://design-image.s3-us-west-2.amazonaws.com/upload/rails-logo.svg" />
+<img alt="Ruby on Rails" align="left" width="38px" height="40px" style="margin-right:15px; margin-top: -20px" src="https://design-image.s3-us-west-2.amazonaws.com/upload/rails-logo.svg" />
 
 <br />
 <br />
